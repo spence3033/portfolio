@@ -2,7 +2,7 @@
 
 This respository is the hosted code of my portfolio. It is all in /docs and it's pretty unreadable because Angular compiles all code into files like /docs/main.js.
 
-To view the Angular code for my portfolio click this link [https://spence3033.github.io/portfolio/](https://spence3033.github.io/portfolio/).
+To view the Angular code for my portfolio click this link [https://spence3033.github.io/angular-portfolio/](https://spence3033.github.io/angular-portfolio/).
 
 ## Github Pages Development Tips
 
